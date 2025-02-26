@@ -97,19 +97,17 @@ GitHub issues track tasks/bugs, enabling discussion. Project boards visualize wo
 
 
 ## Reflect on common challenges and best practices associated with using GitHub for version control. What are some common pitfalls new users might encounter, and what strategies can be employed to overcome them and ensure smooth collaboration?
-
-Git commands seem confusing.
-When two people change the same thing, it gets messy.
-Forgetting to write clear descriptions of changes.
-Not using the README file.
-Committing too many changes in a single commit.
-Not using branches to isolate changes.
-
-Easy Fixes:
-Start with simple commands.
-Learn how to fix those messy merges.
-Explain every change clearly.
-Always write a good README.
-Commit small, logical changes.
-Make copies of the code for new work.
-Communicate about changes.
+1.Git commands seem confusing.
+2.When two people change the same thing, it gets messy.
+3.Forgetting to write clear descriptions of changes.
+4.Not using the README file.
+5.Committing too many changes in a single commit.
+6.Not using branches to isolate changes.
+--Easy Fixes:
+1.Start with simple commands.
+2.Learn how to fix those messy merges.
+3.Explain every change clearly.
+4.Always write a good README.
+5.Commit small, logical changes.
+6.Make copies of the code for new work.
+7.Communicate about changes.
